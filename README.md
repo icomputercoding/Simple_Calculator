@@ -1,4 +1,6 @@
-# calculator
+# Simple Calculator
+
+![alert](https://github.com/icomputercoding/Simple_Calculator/blob/main/Screenshot_2022-07-05-15-54-08-002_in.icomputercoding.calculator.jpg)
 
 Simple Calculator using flutter .
 
